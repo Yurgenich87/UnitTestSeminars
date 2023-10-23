@@ -62,6 +62,10 @@
     <Compile Include="Seminar1\Task2\Task2Test.cs" />
     <Compile Include="Seminar1\Task3\Task3Test.cs" />
     <Compile Include="Seminar1\Calculator\Calculator.cs" />
+    <Compile Include="Seminar1\Task5\MathUtils.cs" />
+    <Compile Include="Seminar1\Task5\MVSCalculator.cs" />
+    <Compile Include="Seminar1\Task5\MVSCalculatorTest.cs" />
+    <Compile Include="Seminar1\Task5\Task5Test.cs" />
     <Compile Include="UnitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -70,6 +74,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Seminar1\Task4\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

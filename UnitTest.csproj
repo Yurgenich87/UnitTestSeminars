@@ -62,11 +62,21 @@
     <Compile Include="Seminar1\Task2\Task2Test.cs" />
     <Compile Include="Seminar1\Task3\Task3Test.cs" />
     <Compile Include="Seminar1\Calculator\Calculator.cs" />
+    <Compile Include="Seminar2\Cart.cs" />
+    <Compile Include="Seminar2\HomeWork2\Car.cs" />
+    <Compile Include="Seminar2\HomeWork2\Main.cs" />
+    <Compile Include="Seminar2\HomeWork2\Motorcycle.cs" />
+    <Compile Include="Seminar2\HomeWork2\TestSources\VehicleTest.cs" />
+    <Compile Include="Seminar2\HomeWork2\Vehicle.cs" />
+    <Compile Include="Seminar2\Product.cs" />
+    <Compile Include="Seminar2\Shop.cs" />
+    <Compile Include="Seminar2\Test\CartTest.cs" />
     <Compile Include="UnitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Seminar1\Task4\" />

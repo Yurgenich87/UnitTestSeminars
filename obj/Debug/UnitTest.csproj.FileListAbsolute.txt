@@ -25,11 +25,6 @@ E:\C#\Lis\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
 E:\C#\Lis\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
 E:\C#\Lis\UnitTest\obj\Debug\UnitTest.dll
 E:\C#\Lis\UnitTest\obj\Debug\UnitTest.pdb
-E:\C#\Lis\UnitTest\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-E:\C#\Lis\UnitTest\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-E:\C#\Lis\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
-E:\C#\Lis\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
-E:\C#\Lis\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 E:\C#\Lis\UnitTest\bin\Debug\NUnit3.TestAdapter.dll
 E:\C#\Lis\UnitTest\bin\Debug\NUnit3.TestAdapter.pdb
 E:\C#\Lis\UnitTest\bin\Debug\nunit.engine.dll

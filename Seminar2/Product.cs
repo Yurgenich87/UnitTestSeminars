@@ -10,26 +10,30 @@ namespace UnitTest.Seminar2
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public double price { get; set; }
-        public int quantity { get; set; }
+        public double Price { get; set; }
+        public int Quantity { get; set; }
 
 
         public Product(int id, string name, double price, int quantity)
         {
             this.Id = id;
             this.Name = name;
-            this.price = price;
-            this.quantity = quantity;
+            this.Price = price;
+            this.Quantity = quantity;
         }
 
+        public string GetName()
+        {
+            return this.Name;
+        }
         public double GetPrice()
         {
-            return this.price;
+            return this.Price;
         }
 
         public int GetQuantity()
         {
-            return this.quantity;
+            return this.Quantity;
         }
     }
 }

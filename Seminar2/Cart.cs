@@ -11,16 +11,19 @@ namespace UnitTest.Seminar2
     {
         private List<Product> cartItems = new List<Product>() ;
 
+        // Добавление товара в корзину
         public void AddItems(Product product)
         {
             cartItems.Add(product);
         }
 
+        // Удаление товара из корзины
         public void RemoveItems(Product product)
         {
             cartItems.Remove(product);
         }
 
+        // Расчет общей суммы товаров в корзине
         public double CalculateTotal()
         {
             double total = 0.0;

@@ -71,6 +71,22 @@
     <Compile Include="Seminar2\Product.cs" />
     <Compile Include="Seminar2\Shop.cs" />
     <Compile Include="Seminar2\Test\CartTest.cs" />
+    <Compile Include="Seminar2\TextUserInterface.cs" />
+    <Compile Include="Seminar3\Calculator.cs" />
+    <Compile Include="Seminar3\CalculatorTestDep.cs" />
+    <Compile Include="Seminar3\HomeWork3\MainHW.cs" />
+    <Compile Include="Seminar3\HomeWork3\MoodAnalyser.cs" />
+    <Compile Include="Seminar3\HomeWork3\NumberUtils.cs" />
+    <Compile Include="Seminar3\HomeWork3\Someservice.cs" />
+    <Compile Include="Seminar3\HomeWork3\User.cs" />
+    <Compile Include="Seminar3\HomeWork3\UserRepository.cs" />
+    <Compile Include="Seminar3\Test\MainHWTests.cs" />
+    <Compile Include="Seminar3\Test\NumberUtilsTest.cs" />
+    <Compile Include="Seminar3\Test\ShopTest.cs" />
+    <Compile Include="Seminar3\Test\SomeServiseTest.cs" />
+    <Compile Include="Seminar3\Test\TestDrivenDevelopment.cs" />
+    <Compile Include="Seminar3\Test\UserRepositoryTest.cs" />
+    <Compile Include="Seminar3\Test\UserTest.cs" />
     <Compile Include="UnitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

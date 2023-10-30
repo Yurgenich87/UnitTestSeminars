@@ -9,12 +9,23 @@ namespace UnitTest.Seminar2
 {
     public class Shop
     {
-        private Product product1;
-        public List<Product> products;
-        
-        public void AddShop() 
+        // Список продуктов в магазине
+        private readonly List<Product> productsShop;
+
+        public Shop()
         {
-            
+        }
+
+        // При создании магазина нужно передать ему список продуктов
+        public Shop(List<Product> productsShop)
+        {
+            this.productsShop = productsShop;
+        }
+
+        // Метод для получения текущего списка продуктов
+        public List<Product> GetProductsShop()
+        {
+            return productsShop;
         }
     }
 }

@@ -112,6 +112,7 @@
     <None Include="packages.config" />
     <None Include="README.md" />
     <None Include="Seminar4\HomeWork4\Task1Text.md" />
+    <None Include="Seminar5\Readme.md" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Seminar1\Task4\" />

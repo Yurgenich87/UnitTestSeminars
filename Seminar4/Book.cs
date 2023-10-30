@@ -24,17 +24,20 @@ namespace UnitTest.Seminar4
             this.Author = author;
 
         }
-
+        // Метод возвращает текущее значение идентификатора книги
         public string GetId(){ return Id; }
 
+        // Метод устанавливает новое значение идентификатора книги
         public void SetId(string id) { this.Id = id; }
 
+        //Метод возвращает текущее значение заголовка книги
         public string GetTitle() { return Title; }
-
+        
+        // Метод устанавливает новое значение заголовка книги
         public void SetTitle(string title) {  this.Title = title; }
-
+        // Метод возвращает текущее значение автора книги
         public string GetAuthor() { return Author; }
-
+        // Метод устанавливает новое значение автора книги
         public void SetAuthor(string author) {  this.Author = author; }
     }
 }

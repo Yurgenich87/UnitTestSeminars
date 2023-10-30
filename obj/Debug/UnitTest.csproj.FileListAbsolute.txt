@@ -33,3 +33,11 @@ E:\C#\Lis\UnitTest\bin\Debug\nunit.engine.core.dll
 E:\C#\Lis\UnitTest\bin\Debug\testcentric.engine.metadata.dll
 E:\C#\Lis\UnitTest\bin\Debug\nunit.framework.dll
 E:\C#\Lis\UnitTest\bin\Debug\nunit.framework.xml
+E:\C#\Lis\UnitTest\bin\Debug\Castle.Core.dll
+E:\C#\Lis\UnitTest\bin\Debug\Moq.dll
+E:\C#\Lis\UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\C#\Lis\UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\C#\Lis\UnitTest\bin\Debug\Castle.Core.xml
+E:\C#\Lis\UnitTest\bin\Debug\Moq.xml
+E:\C#\Lis\UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\C#\Lis\UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
